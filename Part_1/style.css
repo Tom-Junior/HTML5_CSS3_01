@@ -1,0 +1,57 @@
+body {
+	
+}
+
+#banner {    
+	width: 100%; <!- Como é um ID usamos a #. O código width é para a
+							imagem ocupar todo espaço da página. ->
+}
+
+.principal {
+	background: #CCCCCC; <!- Cor de fundo do texto principal ->
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;   <!- Todos os paragráfos centralizado ->
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #FF0000;    <!- Colocado o em antes do strong para que a cor vermelha seja
+					aplicada so no segundo paragráfo, ois no primeiro tambem tem strong.
+					O códifo #FF0000 é a cor VERMELHA em Hexadecimal ->
+}
+
+.itens {
+	font-style: italic;  <!- Como é uma CLASSE usamos o ponto '.' ->
+	
+}
+
+.benefícios {
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+
+ul {
+
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.imagembeneficios {
+	width: 50%;
+}
