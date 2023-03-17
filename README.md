@@ -11,10 +11,10 @@
 <p dir="auto" _msttexthash="1747369" _msthash="335">Formação Alura: HTML5 e CSS3 parte 1: crie uma página web.</p>
 <ul dir="auto">
 <li>Aprenda o que é o HTML e o CSS</li>
-<li _msttexthash="1329575" _msthash="337">Entenda a estrutura básica de um arquivo HTML</li>
-<li _msttexthash="1541748" _msthash="338">Utilize o navegador para inspecionar elementos</li>
-<li _msttexthash="1765205" _msthash="339">Aprenda a definir estilos para elementos usando o CSS</li>
-<li _msttexthash="514657" _msthash="340">Desenvolva um página Web</li>
+<li>Entenda a estrutura básica de um arquivo HTML</li>
+<li>Utilize o navegador para inspecionar elementos</li>
+<li>Aprenda a definir estilos para elementos usando o CSS</li>
+<li>Desenvolva um página Web</li>
 </ul>
 </article>
           </div>
